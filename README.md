@@ -1,2 +1,5 @@
-# minhas-receitas-vegetarianas
-Vou compartilhar com vocês minhas receitas vegetarianas favoritas.
+# Minhas Receitas Vegetarianas
+
+<h3>Vou compartilhar com vocês minhas receitas vegetarianas favoritas.</h3>
+
+
