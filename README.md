@@ -13,7 +13,7 @@
 
 
 
-[foto ilustrativa](https://media.gazetadopovo.com.br/bomgourmet/2019/01/nachos-vegetariano-outback-c438b510.jpg)
+<a href =(https://media.gazetadopovo.com.br/bomgourmet/2019/01/nachos-vegetariano-outback-c438b510.jpg) target="_blank" >[foto ilustrativa] </a>
 
 
 
